@@ -478,6 +478,8 @@ internal class MainForm : Form
         }
     }
 
+
+//Not in this ver -----------------------------------------------------------------------------------------------------------------------------
     private void printToolStripMenuItem_Click(object sender, EventArgs e)
     {
         DialogResult res = printDialog1.ShowDialog(this);
